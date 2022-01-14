@@ -1,0 +1,23 @@
+#draw
+{
+	font-family: 'Open Sans', sans-serif;
+	background-color: palevioletred;
+
+}
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	color:lightslategray;
+}
+span
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color:lightblue;
+}
+canvas
+{
+	background: lightgreen;
+	border-radius: 20px;
+}
